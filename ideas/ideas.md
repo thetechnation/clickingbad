@@ -1,4 +1,3 @@
-
 # Upgrade: Lab Assistant
 * Description: Make twice as much meth with your new lab assistant. 
 * Implemented: no
@@ -59,6 +58,9 @@
 * Description: Methlantis
 * Implemented: No
 
+# Manufacturing tier: Foreign City
+* Description: An entire city making meth for you
+* Implemented: No
 
 
 
